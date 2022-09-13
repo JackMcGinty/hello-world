@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic "hello world" program, built as an exercise so I could pratice working in my development environment. However, because I am not totally devoid of pride, I made it out of big ASCII letters, just to make it a little bit more exciting.
+This is a basic "hello world" program, built as an exercise so I could pratice working in a development environment with source control. However, because I am not totally devoid of pride, I made it out of big ASCII letters, just to make it a little bit more exciting.
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
