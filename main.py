@@ -1,5 +1,4 @@
-hello_string = "greetings, fellow humans."
-"""
+hello_string = """
 H   H  EEEEE  L      L       OOO
 H   H  E      L      L      O   O
 HHHHH  EEE    L      L      O   O
