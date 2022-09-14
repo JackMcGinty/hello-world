@@ -1,16 +1,8 @@
 # Overview
 
-This is a basic "hello world" program, built as an exercise so I could pratice working in a development environment with source control. However, because I am not totally devoid of pride, I made it out of big ASCII letters, just to make it a little bit more exciting.
+This is a basic "hello world" program, built as an exercise so I could pratice working in a development environment with source control. However, because I am not totally devoid of pride, I made it out of big letters made out of small letters, just to make it a little bit more exciting.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0yfef7mKLiM)
 
 # Development Environment
 
@@ -20,6 +12,4 @@ This is a basic "hello world" program, built as an exercise so I could pratice w
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [ASCII font generator](http://patorjk.com/software/taag/) (provided the inspiration for my take on hello world)
